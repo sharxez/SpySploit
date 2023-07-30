@@ -1,0 +1,13 @@
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\bin\Release\Spy Sploit.exe.config
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\bin\Release\Spy Sploit.exe
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\bin\Release\Spy Sploit.pdb
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\bin\Release\FastColoredTextBox.dll
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.csproj.AssemblyReference.cache
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy_Sploit.Form1.resources
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy_Sploit.Properties.Resources.resources
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.csproj.CopyComplete
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.exe
+C:\Users\mariu\source\repos\Spy Sploit\Spy Sploit\obj\Release\Spy Sploit.pdb
