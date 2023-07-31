@@ -1,7 +1,7 @@
 # SpySploit
 + Added TopMost toggle
 
-(Themes comming soon)
++ (Themes comming soon)
 
 Open Source roblox executor GUI. Made by, str4nd & xanderdk
 Youtube tutorial on how to setup: https://www.youtube.com/watch?v=L_8I3QjFrlY&t
