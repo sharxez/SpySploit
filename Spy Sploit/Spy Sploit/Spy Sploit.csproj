@@ -64,6 +64,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Main.cs" />
+    <Compile Include="Private.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -99,6 +101,9 @@
     <None Include="Resources\sol.png" />
     <None Include="Resources\piajauerd.png" />
     <None Include="Resources\sexpoopbuttballs %281%29.png" />
+    <None Include="Resources\settings-87 %281%29.png" />
+    <None Include="Resources\tissegjler.png" />
+    <None Include="Resources\cross-circle.png" />
     <Content Include="Spy-PNG-Pic %281%29.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

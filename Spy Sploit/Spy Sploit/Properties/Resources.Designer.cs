@@ -63,9 +63,29 @@ namespace Spy_Sploit.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cross_circle {
+            get {
+                object obj = ResourceManager.GetObject("cross-circle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap piajauerd {
             get {
                 object obj = ResourceManager.GetObject("piajauerd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap settings_87__1_ {
+            get {
+                object obj = ResourceManager.GetObject("settings-87 (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -96,6 +116,16 @@ namespace Spy_Sploit.Properties {
         internal static System.Drawing.Bitmap Spy_PNG_Pic__1_ {
             get {
                 object obj = ResourceManager.GetObject("Spy-PNG-Pic (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tissegjler {
+            get {
+                object obj = ResourceManager.GetObject("tissegjler", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

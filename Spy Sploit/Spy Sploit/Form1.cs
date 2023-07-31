@@ -145,6 +145,46 @@ namespace Spy_Sploit
                 shit_aids_fuck = 0;
             }
         }
+
+        private void button7_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged_3(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void checkBox1_CheckedChanged_4(object sender, EventArgs e)
+        {
+            this.TopMost = !this.TopMost;
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 // GUI by str4nd, code by xanderdk/Ryan Gosling. discord.gg/dV2MmY5vw6
